@@ -2,5 +2,5 @@ openai
 python-dotenv
 qdrant-client
 streamlit
-audiorecorder
+git+https://github.com/stefanrmmr/streamlit-audiorecorder.git
 pydub
