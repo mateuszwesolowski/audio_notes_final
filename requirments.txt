@@ -2,5 +2,5 @@ openai
 python-dotenv
 qdrant-client
 streamlit
-streamlit_audiorecorder
+streamlit-audiorecorder
 pydub
